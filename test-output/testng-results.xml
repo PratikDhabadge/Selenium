@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-19T20:36:33 IST" name="Default suite" finished-at="2025-02-19T20:36:33 IST" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2025-02-19T20:36:33 IST" name="Default test" finished-at="2025-02-19T20:36:33 IST" duration-ms="134">
+      <class name="S14_114_Streams">
+        <test-method signature="regular()[pri:0, instance:S14_114_Streams@55634720]" started-at="2025-02-19T20:36:33 IST" name="regular" finished-at="2025-02-19T20:36:33 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regular -->
+        <test-method signature="streamfilter()[pri:0, instance:S14_114_Streams@55634720]" started-at="2025-02-19T20:36:33 IST" name="streamfilter" finished-at="2025-02-19T20:36:33 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamfilter -->
+      </class> <!-- S14_114_Streams -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
